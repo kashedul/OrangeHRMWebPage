@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "OrangeHRM">
+
+   <test name = "LeaveListTest">
+      <classes>
+         
+         <class name = "com.bitm.OrangeHRMAutomation.Test.LoginTest" />
+         <class name = "com.bitm.OrangeHRMAutomation.Test.LeaveListTest" />
+      </classes>
+   </test>  
+   
+</suite> 
